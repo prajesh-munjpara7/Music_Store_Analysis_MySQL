@@ -27,7 +27,7 @@
 # 5. Key Insights and Findings
 #### • Revenue Insights: U.S. accounted for the majority of total sales, with other regions contributing less.
 #### • Top Genre: Rock emerged as the most popular genre based on track sales.
-#### •Customer Analysis: High-value customers were identified from specific regions.
+#### • Customer Analysis: High-value customers were identified from specific regions.
 #### • Playlist Insights: Playlists with diverse genres attracted more user interest.
 #### • Artist Success: Top artists and albums were ranked based on sales, driving focused marketing.
 #### • Employee Metrics: Best-performing support representatives were identified for bonuses or recognition.
